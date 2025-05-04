@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Controller",
+    "\\Data",
+    "\\DTO",
+    "\\Models",
+    "\\Properties",
+    "\\Services"
+  ],
+  "SelectedNode": "\\HospitalManagementSystemAPI.csproj",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\.Net training\Hospital Management System\HospitalManagementSystemAPI\obj\Debug\net9.0\HospitalManagementSystemAPI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\.Net training\Hospital Management System\HospitalManagementSystemAPI\obj\Debug\net9.0\HospitalManagementSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\.Net training\Hospital Management System\HospitalManagementSystemAPI\obj\Debug\net9.0\HospitalManagementSystemAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\.Net training\Hospital Management System\HospitalManagementSystemAPI\obj\Debug\net9.0\HospitalManagementSystemAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\.Net training\Hospital Management System\HospitalManagementSystemAPI\obj\Debug\net9.0\HospitalManagementSystemAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\.Net training\Hospital Management System\HospitalManagementSystemAPI\obj\Debug\net9.0\HospitalManagementSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\.Net training\Hospital Management System\HospitalManagementSystemAPI\obj\Debug\net9.0\HospitalManagementSystemAPI.MvcApplicationPartsAssemblyInfo.cache
